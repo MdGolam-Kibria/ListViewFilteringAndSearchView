@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ListViewFilteringAndSearchView</string>
+    <string-array name="item_name">
+        <item>kibria</item>
+        <item>kibria</item>
+        <item>kibria</item>
+        <item>kibria</item>
+        <item>kibria</item>
+        <item>kibria</item>
+        <item>kibria</item>
+        <item>kibria</item>
+        <item>rakib</item>
+        <item>kibria</item>
+        <item>rosni</item>
+        <item>kibria</item>
+        <item>kibria</item>
+        <item>sakib</item>
+        <item>kibria</item>
+        <item>kibria</item>
+        <item>yasmin</item>
+        <item>kibria</item>
+        <item>akhi</item>
+        <item>kibria</item>
+        <item>kibria</item>
+        <item>helal</item>
+        <item>kibria</item>
+    </string-array>
+</resources>
